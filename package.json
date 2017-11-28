@@ -1,0 +1,40 @@
+{
+  "name": "node-status-health",
+  "version": "1.0.1",
+  "description": "A npm package to show node process status and helath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kt-Automator@github.com/karrieretutor/node-status-health.git"
+  },
+  "keywords": [
+    "status",
+    "health",
+    "os",
+    "status",
+    "node",
+    "status",
+    "node",
+    "helath",
+    "os",
+    "helath"
+  ],
+  "author": "Anurag Kumawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karrieretutor/node-status-health/issues"
+  },
+  "dependencies": {
+    "moment": "",
+    "os": "",
+    "moment-timezone": "",
+    "os-utils": "",
+    "process": "",
+    "pidusage": "",
+    "deferred": ""
+  },
+  "homepage": "https://github.com/karrieretutor/node-status-health#readme"
+}
