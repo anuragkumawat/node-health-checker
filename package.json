@@ -1,6 +1,6 @@
 {
-  "name": "node-status-health",
-  "version": "1.0.1",
+  "name": "node-health-checker",
+  "version": "1.0.0",
   "description": "A npm package to show node process status and helath",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://kt-Automator@github.com/karrieretutor/node-status-health.git"
+    "url": "https://github.com/anuragkumawat/node-health-checker.git"
   },
   "keywords": [
     "status",
@@ -25,7 +25,7 @@
   "author": "Anurag Kumawat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karrieretutor/node-status-health/issues"
+    "url": "https://github.com/anuragkumawat/node-health-checker/issues"
   },
   "dependencies": {
     "moment": "",
@@ -36,5 +36,5 @@
     "pidusage": "",
     "deferred": ""
   },
-  "homepage": "https://github.com/karrieretutor/node-status-health#readme"
+  "homepage": "https://github.com/anuragkumawat/node-health-checker#readme"
 }
